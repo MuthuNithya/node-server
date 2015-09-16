@@ -28,7 +28,7 @@
     "socket.io-adapter": "automattic/socket.io-adapter#de5cba"
   },
   "scripts": {
-    "start": "supervisor server.js",
+    "start": "supervisor server.js"
   },
   "main": "server.js"
 }
